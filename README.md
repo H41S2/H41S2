@@ -12,7 +12,6 @@
 <img align="left" src="https://user-images.githubusercontent.com/116753493/199036981-d856400d-9370-4b6d-a4ea-90a59c2042d6.png" alt="Visual Studio" width="40" height="40"/> 
 <img align="left" src="https://user-images.githubusercontent.com/116753493/199037996-47c4eb21-7612-4b00-8cca-3b3f37563039.png" alt="JAVA script" width="40" height="40"/>
 <img align="left" src="https://user-images.githubusercontent.com/116753493/199038472-6190f3cb-c439-4bd8-b7e5-2f3e8964f90d.png" alt="Python" width="40" height="40"/>
+<img align="left" src="https://user-images.githubusercontent.com/116753493/199051540-140d7975-32f4-41d0-9e1e-4ac740b64f4e.png" alt="HTML" width="40" height="40"/>
 
 
-
-![icons8-html-5-48](https://user-images.githubusercontent.com/116753493/199051540-140d7975-32f4-41d0-9e1e-4ac740b64f4e.png)
