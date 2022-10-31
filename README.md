@@ -7,4 +7,6 @@
 <h3 align="center">Beginning Web3 developer</h3>
 <h4 align="center">- Studying React</h4>
 
+
+### Languages and Instruments
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> 
