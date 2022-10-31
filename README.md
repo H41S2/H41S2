@@ -7,7 +7,7 @@
 #
 
 <h3 font="Play" align="left">Beginning Web3 developer </h3>
-<h4 font="Play" align="left">• Studying Python, JS, React, RUST </h4>
+<h4 font="Play" align="left">• Studying Web3 </h4>
 <h4 font="Play" align="left">• I would be glad to get advice from programmers </h4>
 
 
