@@ -7,6 +7,8 @@
 <h3 align="left">Beginning Web3 developer </h3>
 <h4 align="left">- Studying Python, JS </h4>
 
+___
+
 <h3 align="right">Languages and Instruments</h3>
 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199036981-d856400d-9370-4b6d-a4ea-90a59c2042d6.png" alt="Visual Studio" width="40" height="40"/> 
