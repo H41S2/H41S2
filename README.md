@@ -24,9 +24,7 @@ ___
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199037996-47c4eb21-7612-4b00-8cca-3b3f37563039.png" alt="JAVA script" width="30" height="30"/>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199038472-6190f3cb-c439-4bd8-b7e5-2f3e8964f90d.png" alt="Python" width="30" height="30"/>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199051540-140d7975-32f4-41d0-9e1e-4ac740b64f4e.png" alt="HTML" width="30" height="30"/>
-<img align="right" src="https://user-images.githubusercontent.com/116753493/199052227-2c8f2da7-b673-47d1-8948-65e82a59985d.png" alt="RUST" width="30" height="30"/>
-<img align="right" src="https://user-images.githubusercontent.com/116753493/199121542-aab5a657-b0b9-49a2-92f2-9dfcd05bcc0d.png" alt="Blockchain" width="30" height="30"/>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199125143-4d3ed8b2-92d5-41d9-a359-0fa63b4fc2de.png" alt="TypeScript" width="30" height="30"/>
-
-
+<img align="right" src="https://user-images.githubusercontent.com/116753493/199125515-0680d6e4-1ad9-486a-95df-6b74fbe6e21b.png" alt="RUST" width="30" height="30"/>
+<img align="right" src="https://user-images.githubusercontent.com/116753493/199121542-aab5a657-b0b9-49a2-92f2-9dfcd05bcc0d.png" alt="Blockchain" width="30" height="30"/>
 
