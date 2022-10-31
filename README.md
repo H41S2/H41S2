@@ -17,7 +17,6 @@
 ___
 
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199121542-aab5a657-b0b9-49a2-92f2-9dfcd05bcc0d.png" alt="Blockchain" width="35" height="35"/> 
-<img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="35" height="35"/>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199081153-5821e9a1-2927-47b5-8b6e-f46fe178024c.png" alt="Linux" width="35" height="35"/>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199081513-be2e9f08-2971-473c-8e7c-58c803c52840.png" alt="Windows" width="35" height="35"/>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199081651-29c840f7-d29a-4b53-a921-56b2ebc83e4c.png" alt="Terminal" width="35" height="35"/> 
