@@ -26,3 +26,7 @@ ___
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199051540-140d7975-32f4-41d0-9e1e-4ac740b64f4e.png" alt="HTML" width="30" height="30"/>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199052227-2c8f2da7-b673-47d1-8948-65e82a59985d.png" alt="RUST" width="30" height="30"/>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199121542-aab5a657-b0b9-49a2-92f2-9dfcd05bcc0d.png" alt="Blockchain" width="30" height="30"/>
+<img align="right" src="https://user-images.githubusercontent.com/116753493/199125143-4d3ed8b2-92d5-41d9-a359-0fa63b4fc2de.png" alt="TypeScript" width="30" height="30"/>
+
+
+
