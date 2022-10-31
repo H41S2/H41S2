@@ -4,7 +4,7 @@
 
 #
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Play&duration=4000&pause=1000&color=943BF7&center=true&width=435&lines=Welcome+to+my+system!" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&size=30&duration=4300&pause=500&color=943BF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+system!)](https://git.io/typing-svg)
 
 <h1 font="Play" align="center">Web3 development </h1>
 <h3 font="Play" align="left">Beginning Web3 developer </h3>
