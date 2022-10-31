@@ -6,3 +6,6 @@
 <h1 align="center"> Web3 development </h1>
 <h3 align="center">Beginning Web3 developer</h3>
 <h4 align="center">- Studying React</h4>
+
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank">
