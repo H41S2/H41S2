@@ -6,7 +6,7 @@
 <h1 align="center"> Web3 development </h1>
 <h3 align="left">Beginning Web3 developer </h3>
 
-### - Studying Python, JS 
+- Studying Python, JS 
 
 #
 
