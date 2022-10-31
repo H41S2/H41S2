@@ -1,7 +1,3 @@
-
-
-#
-
 <h1 font="Play" align="center">Web3 development </h1>
 
 ![Header](https://user-images.githubusercontent.com/116753493/199089525-a6b14f0a-23b0-4980-8f73-3a2723b599e7.gif)
