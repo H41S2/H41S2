@@ -10,9 +10,12 @@
 <h4 font="Play" align="left">- Studying Python, JS </h4>
 <h4 font="Play" align="left">- I would be glad to get advice from programmers </h4>
 
-___
+
 
 <h3 align="right">Languages and Instruments</h3>
+
+___
+
 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30"/> 
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199036981-d856400d-9370-4b6d-a4ea-90a59c2042d6.png" alt="Visual Studio" width="30" height="30"/> 
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199037996-47c4eb21-7612-4b00-8cca-3b3f37563039.png" alt="JAVA script" width="30" height="30"/>
