@@ -10,7 +10,7 @@
 <h4 font="Play" align="left">- Studying Python, JS </h4>
 <h4 font="Play" align="left">- I would be glad to get advice from programmers </h4>
 
-#
+___
 
 <h3 align="right">Languages and Instruments</h3>
 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30"/> 
