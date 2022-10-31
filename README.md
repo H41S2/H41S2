@@ -1,6 +1,6 @@
 
 #
-![Header](https://user-images.githubusercontent.com/116753493/199011494-f7544ecf-a495-4e78-a054-002712971f77.gif)
+![Header](https://user-images.githubusercontent.com/116753493/199089525-a6b14f0a-23b0-4980-8f73-3a2723b599e7.gif)
 #
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&size=25&duration=3500&pause=100&color=5BF742&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=500&lines=Welcome+to+my+system!)](https://git.io/typing-svg)
 
@@ -21,3 +21,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199081153-5821e9a1-2927-47b5-8b6e-f46fe178024c.png" alt="Linux" width="30" height="30"/>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199081513-be2e9f08-2971-473c-8e7c-58c803c52840.png" alt="Windows" width="30" height="30"/>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199081651-29c840f7-d29a-4b53-a921-56b2ebc83e4c.png" alt="Terminal" width="30" height="30"/>
+
+
+
+
