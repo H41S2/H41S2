@@ -2,10 +2,9 @@
 
 ![Header](https://user-images.githubusercontent.com/116753493/199089525-a6b14f0a-23b0-4980-8f73-3a2723b599e7.gif)
 
-#
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&size=30&duration=4300&pause=500&color=943BF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+system!)](https://git.io/typing-svg)
 
+#
 
 <h3 font="Play" align="left">Beginning Web3 developer </h3>
 <h4 font="Play" align="left">- Studying Python, JS </h4>
