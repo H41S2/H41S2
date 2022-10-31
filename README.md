@@ -1,8 +1,10 @@
 
 #
 ![Header](https://user-images.githubusercontent.com/116753493/199089525-a6b14f0a-23b0-4980-8f73-3a2723b599e7.gif)
+
 #
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&size=25&duration=3500&pause=100&color=5BF742&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=500&lines=Welcome+to+my+system!)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Play&duration=4000&pause=1000&color=7B27F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+system!" alt="Typing SVG" /></a>
 
 <h1 font="Play" align="center">Web3 development </h1>
 <h3 font="Play" align="left">Beginning Web3 developer </h3>
