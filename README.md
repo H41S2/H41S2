@@ -16,7 +16,19 @@
 
 ___
 
-<img align="middle" src="https://user-images.githubusercontent.com/116753493/199121542-aab5a657-b0b9-49a2-92f2-9dfcd05bcc0d.png" alt="Blockchain" width="35" height="35"/> 
+<style>
+   .thumb img  {
+    border: 2px solid #55c5e9; /* Рамка вокруг фотографии */
+    padding: 15px; /* Расстояние от картинки до рамки */
+    background: #666; /* Цвет фона */
+    margin-right: 10px; /* Отступ справа */
+    margin-bottom: 10px; /* Отступ снизу */
+   }
+  </style>
+ </head>
+ <body>
+  <p class="thumb">
+   <img align="middle" src="https://user-images.githubusercontent.com/116753493/199121542-aab5a657-b0b9-49a2-92f2-9dfcd05bcc0d.png" alt="Blockchain" width="35" height="35"/> 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="35" height="35"/>
 <img align="left" src="https://user-images.githubusercontent.com/116753493/199081153-5821e9a1-2927-47b5-8b6e-f46fe178024c.png" alt="Linux" width="35" height="35"/>
 <img align="left" src="https://user-images.githubusercontent.com/116753493/199081513-be2e9f08-2971-473c-8e7c-58c803c52840.png" alt="Windows" width="35" height="35"/>
@@ -29,4 +41,4 @@ ___
 <img align="left" src="https://user-images.githubusercontent.com/116753493/199125515-0680d6e4-1ad9-486a-95df-6b74fbe6e21b.png" alt="RUST" width="35" height="35"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="35" height="35"/>
 <img align="middle" src="https://user-images.githubusercontent.com/116753493/199125791-87dedd36-d6eb-4783-975e-9c16e270aea5.png" alt="Blockchain" width="35" height="35"/>
-
+  </p>
