@@ -4,5 +4,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+system!)](https://git.io/typing-svg)
 # Web3 development
 ## Beginning Web3 developer
-
-
+- Studying React
