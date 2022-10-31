@@ -4,9 +4,9 @@
 #
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&size=25&duration=3500&pause=100&color=5BF742&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=500&lines=Welcome+to+my+system!)](https://git.io/typing-svg)
 
-<h1 style="font-family:Play;" align="center">Web3 development </h1>
-<h3 style="font-family:Play;" align="left">Beginning Web3 developer </h3>
-<h4 style="font-family:Play;"  align="left">- Studying Python, JS </h4>
+<h1 font="Play" align="center">Web3 development </h1>
+<h3 font="Play" align="left">Beginning Web3 developer </h3>
+<h4 font="Play" align="left">- Studying Python, JS </h4>
 
 
 #
