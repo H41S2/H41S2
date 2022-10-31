@@ -7,8 +7,8 @@
 <h1 font="Play" align="center">Web3 development </h1>
 <h3 font="Play" align="left">Beginning Web3 developer </h3>
 <h4 font="Play" align="left">- Studying Python, JS </h4>
-
-
+<h4 font="Play" align="left">- I would be glad to get advice from programmers </h4>
+I would be glad to get advice from programmers
 #
 
 <h3 align="right">Languages and Instruments</h3>
