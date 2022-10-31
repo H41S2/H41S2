@@ -8,14 +8,10 @@
 <h4 align="center">- Studying Python, React, JS </h4>
 
 <h3 align="center">Languages and Instrument s</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <img src="https://user-images.githubusercontent.com/116753493/199036981-d856400d-9370-4b6d-a4ea-90a59c2042d6.png" alt="Visual Studio" width="40" height="40"/> </a>
 <img src="https://user-images.githubusercontent.com/116753493/199037996-47c4eb21-7612-4b00-8cca-3b3f37563039.png" alt="JAVA script" width="40" height="40"/> </a>
 <img src="https://user-images.githubusercontent.com/116753493/199038472-6190f3cb-c439-4bd8-b7e5-2f3e8964f90d.png" alt="Python" width="40" height="40"/> </a>
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishdevdb&show_icons=true&title_color=5e8cf4&text_color=ffffff&bg_color=262d38&locale=en&layout=compact" alt="H41S2" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishdevdb&show_icons=true&title_color=5e8cf4&text_color=ffffff&bg_color=262d38&locale=en" alt="H41S2" /></p>
 
