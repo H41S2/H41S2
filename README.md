@@ -11,6 +11,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <img src="https://user-images.githubusercontent.com/116753493/199036981-d856400d-9370-4b6d-a4ea-90a59c2042d6.png" alt="Visual Studio" width="40" height="40"/> </a>
 <img src="https://user-images.githubusercontent.com/116753493/199037996-47c4eb21-7612-4b00-8cca-3b3f37563039.png" alt="JAVA script" width="40" height="40"/> </a>
-
+<img src="https://user-images.githubusercontent.com/116753493/199038472-6190f3cb-c439-4bd8-b7e5-2f3e8964f90d.png" alt="Python" width="40" height="40"/> </a>
 
 
