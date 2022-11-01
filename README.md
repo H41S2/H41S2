@@ -22,7 +22,7 @@
    <img align="right" src="https://user-images.githubusercontent.com/116753493/199081651-29c840f7-d29a-4b53-a921-56b2ebc83e4c.png" alt="Terminal" width="40" height="40"/> 
 
    <h3 font="Play" align="left">⠀</h3>
-   <h3 font="Play" align="left">⠀</h3>
+   <h5 font="Play" align="left">⠀</h5>
 
    <img align="right" src="https://user-images.githubusercontent.com/116753493/199037996-47c4eb21-7612-4b00-8cca-3b3f37563039.png" alt="JAVA script" width="40" height="40"/>
    <img align="right" src="https://user-images.githubusercontent.com/116753493/199038472-6190f3cb-c439-4bd8-b7e5-2f3e8964f90d.png" alt="Python" width="40" height="40"/>
