@@ -1,4 +1,4 @@
-<h2 font="Play" align="center">Web3 development </h2>
+<h1 font="Play" align="center">Web3 development </h1>
 
 <img src="https://user-images.githubusercontent.com/116753493/199245841-73d28c0a-c4fd-4782-b30f-e125c26c99d1.gif" />
 
