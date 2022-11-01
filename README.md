@@ -9,13 +9,11 @@
 <h3 font="Play" align="left">Beginning Web3 developer </h3>
 <h4 font="Play" align="left">• Studying Web3 </h4>
 <h4 font="Play" align="left">• I would be glad to get advice from programmers </h4>
-  <h5 font="Play" align="left">⠀</h5>
-<h3 align="right">Languages and Instruments</h3>
-  <h3 font="Play" align="left">⠀</h3>
+
   
 <hr>
 
-  <h3 font="Play" align="left">⠀</h3>
+  <h3 align="right">Languages and Instruments</h3>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199121542-aab5a657-b0b9-49a2-92f2-9dfcd05bcc0d.png" alt="Blockchain" width="40" height="40"/>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199081153-5821e9a1-2927-47b5-8b6e-f46fe178024c.png" alt="Linux" width="40" height="40"/>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199081513-be2e9f08-2971-473c-8e7c-58c803c52840.png" alt="Windows" width="40" height="40"/>
