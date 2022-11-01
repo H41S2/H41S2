@@ -2,8 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/116753493/199089525-a6b14f0a-23b0-4980-8f73-3a2723b599e7.gif" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&size=32&duration=4500&pause=800&color=6441A5&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&width=450&lines=Welcome+to+my+metaverse!)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Play&size=32&duration=4500&pause=800&color=8A5AE4&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&width=450&lines=Welcome+to+my+metaverse!" alt="Typing SVG" /></a>
 #
 
 <h3 font="Play" align="left">Beginning Web3 developer </h3>
