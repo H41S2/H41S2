@@ -12,7 +12,7 @@
 
 
 
-<h3 align="right">Languages and Instruments</h3>
+<h2 align="right">Languages and Instruments</h2>
 
 ___
 
