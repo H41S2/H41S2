@@ -5,7 +5,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Play&size=30&duration=4500&pause=800&color=8255D7&center=true&vCenter=true&width=450&lines=Welcome+to+my+metaverse!" alt="Typing SVG" /></a>
 
-#
 
 <h3 font="Play" align="left">Beginning Web3 developer </h3>
 <h4 font="Play" align="left">• Studying Web3 </h4>
