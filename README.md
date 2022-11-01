@@ -26,8 +26,9 @@
   <h3 font="Play" align="left">⠀</h3>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199134435-c0fec3fb-11d7-4d48-9ae1-bd457dc3d500.png" alt="React" width="40" height="40"/>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199125791-87dedd36-d6eb-4783-975e-9c16e270aea5.png" alt="Blockchain" width="40" height="40"/>
-<img align="right" src="https://user-images.githubusercontent.com/116753493/199125515-0680d6e4-1ad9-486a-95df-6b74fbe6e21b.png" alt="RUST" width="40" height="40"/>
+<img align="right" src="https://user-images.githubusercontent.com/116753493/199135768-e7fd2da5-58a2-4159-80af-d1b9b9e1af49.png" alt="Ethereum" width="40" height="40"/>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199134600-2cfe8a97-f3a2-4684-a2d4-e307bc4238cd.png" alt="Visual Studio" width="40" height="40"/>
   <h3 font="Play" align="left">⠀</h3>
-  
+
+
 
