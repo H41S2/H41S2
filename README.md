@@ -22,7 +22,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199134671-ef8daec4-a9e2-437e-aed9-e30d50a6faec.png" alt="JAVA script" width="40" height="40"/>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199134748-e5f23658-4c50-459a-8f79-71dc66734d11.png" alt="Python" width="40" height="40"/>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199134956-b94eb079-e4e3-4de3-ace2-c65678dd5fce.png" alt="HTML" width="40" height="40"/>
-<img align="right" src="https://user-images.githubusercontent.com/116753493/199135066-15b08da8-f9e2-4aa7-838c-81be0fcd565e.png" alt="TypeScript" width="40" height="40"/>
+<img align="right" src="https://user-images.githubusercontent.com/116753493/199135642-32579a55-3f45-443f-b81d-80eb8247f446.png" alt="JAVA" width="40" height="40"/>
   <h3 font="Play" align="left">⠀</h3>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199134435-c0fec3fb-11d7-4d48-9ae1-bd457dc3d500.png" alt="React" width="40" height="40"/>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199125791-87dedd36-d6eb-4783-975e-9c16e270aea5.png" alt="Blockchain" width="40" height="40"/>
@@ -30,4 +30,4 @@
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199134600-2cfe8a97-f3a2-4684-a2d4-e307bc4238cd.png" alt="Visual Studio" width="40" height="40"/>
   <h3 font="Play" align="left">⠀</h3>
   
-  
+
