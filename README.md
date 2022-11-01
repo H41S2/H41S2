@@ -16,8 +16,8 @@
   <h3 align="right">Languages and Instruments</h3>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199121542-aab5a657-b0b9-49a2-92f2-9dfcd05bcc0d.png" alt="Blockchain" width="40" height="40"/>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199135177-0e5a4379-b903-40b7-b663-1c67a849aba7.png" alt="Linux" width="40" height="40"/>
-<img align="right" src="https://user-images.githubusercontent.com/116753493/199135177-0e5a4379-b903-40b7-b663-1c67a849aba7.png" alt="Windows" width="40" height="40"/>
-<img align="right" src="https://user-images.githubusercontent.com/116753493/199081651-29c840f7-d29a-4b53-a921-56b2ebc83e4c.png" alt="Terminal" width="40" height="40"/> 
+<img align="right" src="https://user-images.githubusercontent.com/116753493/199135333-ce157746-970f-4529-9e92-971f91c4466d.png" alt="Windows" width="40" height="40"/>
+<img align="right" src="https://user-images.githubusercontent.com/116753493/199135403-cdd6d5fa-7b97-42a9-943b-4b9ace0741a5.png" alt="Terminal" width="40" height="40"/> 
   <h3 font="Play" align="left">⠀</h3>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199134671-ef8daec4-a9e2-437e-aed9-e30d50a6faec.png" alt="JAVA script" width="40" height="40"/>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199134748-e5f23658-4c50-459a-8f79-71dc66734d11.png" alt="Python" width="40" height="40"/>
@@ -31,8 +31,3 @@
   <h3 font="Play" align="left">⠀</h3>
   
   
-
-
-
-
-
