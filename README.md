@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/116753493/199245841-73d28c0a-c4fd-4782-b30f-e125c26c99d1.gif" />
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Play&size=30&duration=4500&pause=800&color=8255D7&center=true&vCenter=true&width=450&lines=With+connection!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Play&size=30&duration=4500&pause=800&color=8255D7&center=true&vCenter=true&width=450&lines=With+connection+username!" alt="Typing SVG" /></a>
 
 
 <h3 font="Play" align="left">Beginning Web3 developer </h3>
