@@ -1,6 +1,6 @@
 <h1 font="Play" align="center">Web3 development </h1>
 
-<img src="https://user-images.githubusercontent.com/116753493/199089525-a6b14f0a-23b0-4980-8f73-3a2723b599e7.gif" />
+<img src="https://user-images.githubusercontent.com/116753493/199245841-73d28c0a-c4fd-4782-b30f-e125c26c99d1.gif" />
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Play&size=30&duration=4500&pause=800&color=8255D7&center=true&vCenter=true&width=450&lines=Welcome+to+my+metaverse!" alt="Typing SVG" /></a>
@@ -29,6 +29,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199135768-e7fd2da5-58a2-4159-80af-d1b9b9e1af49.png" alt="Ethereum" width="40" height="40"/>
 <img align="right" src="https://user-images.githubusercontent.com/116753493/199134600-2cfe8a97-f3a2-4684-a2d4-e307bc4238cd.png" alt="Visual Studio" width="40" height="40"/>
   <h3 font="Play" align="left">⠀</h3>
+
 
 
 
